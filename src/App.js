@@ -1,25 +1,32 @@
-import logo from './logo.svg';
-import './App.css';
+import { Suspense } from "react";
+import { Canvas } from "@react-three/fiber";
+import { Loader } from "@react-three/drei";
+import { FPSControls } from "react-three-fpscontrols";
 
-function App() {
+import MainStage from "./MainStage";
+
+export default function Viewer() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Canvas shadows dpr={[1, 2]}>
+        <Suspense fallback={null}>
+          <pointLight position={[10, 10, 10]} />
+          <MainStage />
+          <FPSControls
+            camProps={{
+              makeDefault: true,
+              fov: 80,
+              position: [0, 2.537, 0.7]
+            }}
+            orbitProps={{
+              target: [0, 2.537, 0]
+            }}
+            enableJoystick
+            enableKeyboard
+          />
+        </Suspense>
+      </Canvas>
+      <Loader />
+    </>
   );
 }
-
-export default App;
