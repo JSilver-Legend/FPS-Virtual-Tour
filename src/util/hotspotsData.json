@@ -1,0 +1,626 @@
+[
+    {
+        "type": "type_2",
+        "sourceURL": "/assets/Amit.png",
+        "linkURL": "https://rejolut.com/",
+        "position": [
+            2.85,
+            2.7,
+            0.1
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "type": "type_2",
+        "sourceURL": "/assets/rahul.png",
+        "linkURL": "https://rejolut.com/",
+        "position": [
+            4.95,
+            2.7,
+            0.1
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "type": "type_2",
+        "sourceURL": "/assets/vishal1.png",
+        "linkURL": "https://rejolut.com/",
+        "position": [
+            7,
+            2.7,
+            0.1
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "type": "type_2",
+        "sourceURL": "/assets/Group1.png",
+        "linkURL": "https://rejolut.com/",
+        "position": [
+            2,
+            2.7,
+            25.1
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "type": "type_2",
+        "sourceURL": "/assets/Group2.png",
+        "linkURL": "https://rejolut.com/",
+        "position": [
+            0,
+            2.7,
+            25.1
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "type": "type_2",
+        "sourceURL": "/assets/Group3.png",
+        "linkURL": "https://rejolut.com/",
+        "position": [
+            -2,
+            2.7,
+            25.1
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "type": "type_2",
+        "sourceURL": "/assets/Group4.png",
+        "linkURL": "https://rejolut.com/",
+        "position": [
+            -4,
+            2.7,
+            25.1
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "type": "type_2",
+        "sourceURL": "/assets/Group5.png",
+        "linkURL": "https://rejolut.com/",
+        "position": [
+            -6,
+            2.7,
+            25.1
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "type": "type_2",
+        "sourceURL": "/assets/Group6.png",
+        "linkURL": "https://rejolut.com/",
+        "position": [
+            -8,
+            2.7,
+            25.1
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "type": "type_4",
+        "sourceURL": "/assets/gaming.png",
+        "linkURL": "https://rejolut.com/",
+        "position": [
+            11.8,
+            3.3,
+            32.37
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "type": "type_4",
+        "sourceURL": "/assets/betting.png",
+        "linkURL": "https://rejolut.com/",
+        "position": [
+            10.6,
+            3.3,
+            32.37
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "type": "type_4",
+        "sourceURL": "/assets/blockchain.png",
+        "linkURL": "https://rejolut.com/",
+        "content": "Blockchain",
+        "position": [
+            9.4,
+            3.3,
+            32.37
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "type": "type_4",
+        "sourceURL": "/assets/ngo.png",
+        "linkURL": "https://rejolut.com/",
+        "position": [
+            8.2,
+            3.3,
+            32.37
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "type": "type_4",
+        "sourceURL": "/assets/nft.png",
+        "linkURL": "https://rejolut.com/",
+        "position": [
+            11.8,
+            2.3,
+            32.37
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "type": "type_4",
+        "sourceURL": "/assets/vinery.png",
+        "linkURL": "https://rejolut.com/",
+        "position": [
+            10.6,
+            2.3,
+            32.37
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "type": "type_4",
+        "sourceURL": "/assets/fintech.png",
+        "linkURL": "https://rejolut.com/",
+        "position": [
+            9.4,
+            2.3,
+            32.37
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "type": "type_4",
+        "sourceURL": "/assets/legal.png",
+        "linkURL": "https://rejolut.com/",
+        "position": [
+            8.2,
+            2.3,
+            32.37
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "type": "type_4",
+        "sourceURL": "/assets/algo.png",
+        "linkURL": "https://rejolut.com/",
+        "content": "",
+        "position": [
+            13.435,
+            3.3,
+            27.2
+        ],
+        "rotation": [
+            0,
+            1.57,
+            0
+        ]
+    },
+    {
+        "type": "type_4",
+        "sourceURL": "/assets/ada.png",
+        "linkURL": "https://rejolut.com/",
+        "content": "",
+        "position": [
+            13.435,
+            3.3,
+            28.3
+        ],
+        "rotation": [
+            0,
+            1.57,
+            0
+        ]
+    },
+    {
+        "type": "type_4",
+        "sourceURL": "/assets/group.png",
+        "linkURL": "https://rejolut.com/",
+        "content": "",
+        "position": [
+            13.435,
+            3.3,
+            29.4
+        ],
+        "rotation": [
+            0,
+            1.57,
+            0
+        ]
+    },
+    {
+        "type": "type_4",
+        "sourceURL": "/assets/eth.png",
+        "linkURL": "https://rejolut.com/",
+        "content": "",
+        "position": [
+            13.435,
+            3.3,
+            30.5
+        ],
+        "rotation": [
+            0,
+            1.57,
+            0
+        ]
+    },
+    {
+        "type": "type_4",
+        "sourceURL": "/assets/download.png",
+        "linkURL": "https://rejolut.com/",
+        "content": "",
+        "position": [
+            13.435,
+            2.3,
+            27.2
+        ],
+        "rotation": [
+            0,
+            1.57,
+            0
+        ]
+    },
+    {
+        "type": "type_4",
+        "sourceURL": "/assets/SOL.png",
+        "linkURL": "https://rejolut.com/",
+        "content": "",
+        "position": [
+            13.435,
+            2.3,
+            28.3
+        ],
+        "rotation": [
+            0,
+            1.57,
+            0
+        ]
+    },
+    {
+        "type": "type_4",
+        "sourceURL": "/assets/Avalanche.png",
+        "linkURL": "https://rejolut.com/",
+        "content": "",
+        "position": [
+            13.435,
+            2.3,
+            29.4
+        ],
+        "rotation": [
+            0,
+            1.57,
+            0
+        ]
+    },
+    {
+        "type": "type_4",
+        "sourceURL": "/assets/xtz.png",
+        "linkURL": "https://rejolut.com/",
+        "content": "",
+        "position": [
+            13.435,
+            2.3,
+            30.5
+        ],
+        "rotation": [
+            0,
+            1.57,
+            0
+        ]
+    },
+    {
+        "type": "type_6",
+        "sourceURL": "/assets/type_6_1.png",
+        "linkURL": "https://rejolut.com/",
+        "position": [
+            -10,
+            3.2,
+            25.41
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "type": "type_6",
+        "sourceURL": "/assets/type_6_2.png",
+        "linkURL": "https://rejolut.com/",
+        "position": [
+            -6.5,
+            3.2,
+            25.41
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "type": "type_6",
+        "sourceURL": "/assets/type_6_3.png",
+        "linkURL": "https://rejolut.com/",
+        "position": [
+            -3,
+            3.2,
+            25.41
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "type": "type_6",
+        "sourceURL": "/assets/type_6_4.png",
+        "linkURL": "https://rejolut.com/",
+        "position": [
+            0,
+            3.2,
+            25.41
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "type": "type_6",
+        "sourceURL": "/assets/type_6_5.png",
+        "linkURL": "https://rejolut.com/",
+        "position": [
+            3,
+            3.2,
+            25.41
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "type": "type_6",
+        "sourceURL": "/assets/type_6_6.png",
+        "linkURL": "https://rejolut.com/",
+        "position": [
+            -10,
+            3.2,
+            32.4
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "type": "type_6",
+        "sourceURL": "/assets/type_6_7.png",
+        "linkURL": "https://rejolut.com/",
+        "position": [
+            -6.5,
+            3.2,
+            32.4
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "type": "type_6",
+        "sourceURL": "/assets/type_6_8.png",
+        "linkURL": "https://rejolut.com/",
+        "position": [
+            -3,
+            3.2,
+            32.4
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "type": "type_6",
+        "sourceURL": "/assets/type_6_9.png",
+        "linkURL": "https://rejolut.com/",
+        "position": [
+            0,
+            3.2,
+            32.4
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "type": "type_6",
+        "sourceURL": "/assets/type_6_10.png",
+        "linkURL": "https://rejolut.com/",
+        "position": [
+            3,
+            3.2,
+            32.4
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "type": "type_7",
+        "sourceURL": "/assets/Apollo.png",
+        "linkURL": "https://rejolut.com/",
+        "position": [
+            -18,
+            3.4,
+            31.8
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "type": "type_7",
+        "sourceURL": "/assets/Proactive.png",
+        "linkURL": "https://rejolut.com/",
+        "position": [
+            -22,
+            3.4,
+            31.8
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "type": "type_7",
+        "sourceURL": "/assets/MonsterX.png",
+        "linkURL": "https://rejolut.com/",
+        "position": [
+            -25.6,
+            3.4,
+            30
+        ],
+        "rotation": [
+            0,
+            -1.57,
+            0
+        ]
+    },
+    {
+        "type": "type_7",
+        "sourceURL": "/assets/Quiztics.png",
+        "linkURL": "https://rejolut.com/",
+        "position": [
+            -25.6,
+            3.4,
+            26
+        ],
+        "rotation": [
+            0,
+            -1.57,
+            0
+        ]
+    },
+    {
+        "type": "type_7",
+        "sourceURL": "/assets/Cryptotao.png",
+        "linkURL": "https://rejolut.com/",
+        "position": [
+            -25.6,
+            3.4,
+            22
+        ],
+        "rotation": [
+            0,
+            -1.57,
+            0
+        ]
+    },
+    {
+        "type": "type_7",
+        "sourceURL": "/assets/Aeon.png",
+        "linkURL": "https://rejolut.com/",
+        "position": [
+            -15.2,
+            3.4,
+            22
+        ],
+        "rotation": [
+            0,
+            1.57,
+            0
+        ]
+    }
+]
