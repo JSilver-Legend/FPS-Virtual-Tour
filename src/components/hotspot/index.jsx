@@ -6,22 +6,22 @@ const Hotspot = ({ data }) => {
 
     let size_1, size_2, size_3;
     switch (data.type) {
-        case "type_2":
+        case "type_1":
             size_1 = 1;
             size_2 = 1;
             size_3 = 0.3;
             break;
-        case "type_4":
+        case "type_2":
             size_1 = 0.8;
             size_2 = 0.8;
             size_3 = 0.3;
             break;
-        case "type_6":
+        case "type_3":
             size_1 = 2;
             size_2 = 1.5;
             size_3 = 0.1;
             break;
-        case "type_7":
+        case "type_4":
             size_1 = 2.9;
             size_2 = 2;
             size_3 = 0.3;

@@ -1,6 +1,6 @@
 [
     {
-        "type": "type_2",
+        "type": "type_1",
         "sourceURL": "/assets/Amit.png",
         "linkURL": "https://rejolut.com/",
         "position": [
@@ -15,7 +15,7 @@
         ]
     },
     {
-        "type": "type_2",
+        "type": "type_1",
         "sourceURL": "/assets/rahul.png",
         "linkURL": "https://rejolut.com/",
         "position": [
@@ -30,7 +30,7 @@
         ]
     },
     {
-        "type": "type_2",
+        "type": "type_1",
         "sourceURL": "/assets/vishal1.png",
         "linkURL": "https://rejolut.com/",
         "position": [
@@ -45,7 +45,7 @@
         ]
     },
     {
-        "type": "type_2",
+        "type": "type_1",
         "sourceURL": "/assets/Group1.png",
         "linkURL": "https://rejolut.com/",
         "position": [
@@ -60,7 +60,7 @@
         ]
     },
     {
-        "type": "type_2",
+        "type": "type_1",
         "sourceURL": "/assets/Group2.png",
         "linkURL": "https://rejolut.com/",
         "position": [
@@ -75,7 +75,7 @@
         ]
     },
     {
-        "type": "type_2",
+        "type": "type_1",
         "sourceURL": "/assets/Group3.png",
         "linkURL": "https://rejolut.com/",
         "position": [
@@ -90,7 +90,7 @@
         ]
     },
     {
-        "type": "type_2",
+        "type": "type_1",
         "sourceURL": "/assets/Group4.png",
         "linkURL": "https://rejolut.com/",
         "position": [
@@ -105,7 +105,7 @@
         ]
     },
     {
-        "type": "type_2",
+        "type": "type_1",
         "sourceURL": "/assets/Group5.png",
         "linkURL": "https://rejolut.com/",
         "position": [
@@ -120,7 +120,7 @@
         ]
     },
     {
-        "type": "type_2",
+        "type": "type_1",
         "sourceURL": "/assets/Group6.png",
         "linkURL": "https://rejolut.com/",
         "position": [
@@ -135,7 +135,7 @@
         ]
     },
     {
-        "type": "type_4",
+        "type": "type_2",
         "sourceURL": "/assets/gaming.png",
         "linkURL": "https://rejolut.com/",
         "position": [
@@ -150,7 +150,7 @@
         ]
     },
     {
-        "type": "type_4",
+        "type": "type_2",
         "sourceURL": "/assets/betting.png",
         "linkURL": "https://rejolut.com/",
         "position": [
@@ -165,7 +165,7 @@
         ]
     },
     {
-        "type": "type_4",
+        "type": "type_2",
         "sourceURL": "/assets/blockchain.png",
         "linkURL": "https://rejolut.com/",
         "content": "Blockchain",
@@ -181,7 +181,7 @@
         ]
     },
     {
-        "type": "type_4",
+        "type": "type_2",
         "sourceURL": "/assets/ngo.png",
         "linkURL": "https://rejolut.com/",
         "position": [
@@ -196,7 +196,7 @@
         ]
     },
     {
-        "type": "type_4",
+        "type": "type_2",
         "sourceURL": "/assets/nft.png",
         "linkURL": "https://rejolut.com/",
         "position": [
@@ -211,7 +211,7 @@
         ]
     },
     {
-        "type": "type_4",
+        "type": "type_2",
         "sourceURL": "/assets/vinery.png",
         "linkURL": "https://rejolut.com/",
         "position": [
@@ -226,7 +226,7 @@
         ]
     },
     {
-        "type": "type_4",
+        "type": "type_2",
         "sourceURL": "/assets/fintech.png",
         "linkURL": "https://rejolut.com/",
         "position": [
@@ -241,7 +241,7 @@
         ]
     },
     {
-        "type": "type_4",
+        "type": "type_2",
         "sourceURL": "/assets/legal.png",
         "linkURL": "https://rejolut.com/",
         "position": [
@@ -256,7 +256,7 @@
         ]
     },
     {
-        "type": "type_4",
+        "type": "type_2",
         "sourceURL": "/assets/algo.png",
         "linkURL": "https://rejolut.com/",
         "content": "",
@@ -272,7 +272,7 @@
         ]
     },
     {
-        "type": "type_4",
+        "type": "type_2",
         "sourceURL": "/assets/ada.png",
         "linkURL": "https://rejolut.com/",
         "content": "",
@@ -288,7 +288,7 @@
         ]
     },
     {
-        "type": "type_4",
+        "type": "type_2",
         "sourceURL": "/assets/group.png",
         "linkURL": "https://rejolut.com/",
         "content": "",
@@ -304,7 +304,7 @@
         ]
     },
     {
-        "type": "type_4",
+        "type": "type_2",
         "sourceURL": "/assets/eth.png",
         "linkURL": "https://rejolut.com/",
         "content": "",
@@ -320,7 +320,7 @@
         ]
     },
     {
-        "type": "type_4",
+        "type": "type_2",
         "sourceURL": "/assets/download.png",
         "linkURL": "https://rejolut.com/",
         "content": "",
@@ -336,7 +336,7 @@
         ]
     },
     {
-        "type": "type_4",
+        "type": "type_2",
         "sourceURL": "/assets/SOL.png",
         "linkURL": "https://rejolut.com/",
         "content": "",
@@ -352,7 +352,7 @@
         ]
     },
     {
-        "type": "type_4",
+        "type": "type_2",
         "sourceURL": "/assets/Avalanche.png",
         "linkURL": "https://rejolut.com/",
         "content": "",
@@ -368,7 +368,7 @@
         ]
     },
     {
-        "type": "type_4",
+        "type": "type_2",
         "sourceURL": "/assets/xtz.png",
         "linkURL": "https://rejolut.com/",
         "content": "",
@@ -384,7 +384,7 @@
         ]
     },
     {
-        "type": "type_6",
+        "type": "type_3",
         "sourceURL": "/assets/type_6_1.png",
         "linkURL": "https://rejolut.com/",
         "position": [
@@ -399,7 +399,7 @@
         ]
     },
     {
-        "type": "type_6",
+        "type": "type_3",
         "sourceURL": "/assets/type_6_2.png",
         "linkURL": "https://rejolut.com/",
         "position": [
@@ -414,7 +414,7 @@
         ]
     },
     {
-        "type": "type_6",
+        "type": "type_3",
         "sourceURL": "/assets/type_6_3.png",
         "linkURL": "https://rejolut.com/",
         "position": [
@@ -429,7 +429,7 @@
         ]
     },
     {
-        "type": "type_6",
+        "type": "type_3",
         "sourceURL": "/assets/type_6_4.png",
         "linkURL": "https://rejolut.com/",
         "position": [
@@ -444,7 +444,7 @@
         ]
     },
     {
-        "type": "type_6",
+        "type": "type_3",
         "sourceURL": "/assets/type_6_5.png",
         "linkURL": "https://rejolut.com/",
         "position": [
@@ -459,7 +459,7 @@
         ]
     },
     {
-        "type": "type_6",
+        "type": "type_3",
         "sourceURL": "/assets/type_6_6.png",
         "linkURL": "https://rejolut.com/",
         "position": [
@@ -474,7 +474,7 @@
         ]
     },
     {
-        "type": "type_6",
+        "type": "type_3",
         "sourceURL": "/assets/type_6_7.png",
         "linkURL": "https://rejolut.com/",
         "position": [
@@ -489,7 +489,7 @@
         ]
     },
     {
-        "type": "type_6",
+        "type": "type_3",
         "sourceURL": "/assets/type_6_8.png",
         "linkURL": "https://rejolut.com/",
         "position": [
@@ -504,7 +504,7 @@
         ]
     },
     {
-        "type": "type_6",
+        "type": "type_3",
         "sourceURL": "/assets/type_6_9.png",
         "linkURL": "https://rejolut.com/",
         "position": [
@@ -519,7 +519,7 @@
         ]
     },
     {
-        "type": "type_6",
+        "type": "type_3",
         "sourceURL": "/assets/type_6_10.png",
         "linkURL": "https://rejolut.com/",
         "position": [
@@ -534,7 +534,7 @@
         ]
     },
     {
-        "type": "type_7",
+        "type": "type_2",
         "sourceURL": "/assets/Apollo.png",
         "linkURL": "https://rejolut.com/",
         "position": [
@@ -549,7 +549,7 @@
         ]
     },
     {
-        "type": "type_7",
+        "type": "type_2",
         "sourceURL": "/assets/Proactive.png",
         "linkURL": "https://rejolut.com/",
         "position": [
@@ -564,7 +564,7 @@
         ]
     },
     {
-        "type": "type_7",
+        "type": "type_2",
         "sourceURL": "/assets/MonsterX.png",
         "linkURL": "https://rejolut.com/",
         "position": [
@@ -579,7 +579,7 @@
         ]
     },
     {
-        "type": "type_7",
+        "type": "type_2",
         "sourceURL": "/assets/Quiztics.png",
         "linkURL": "https://rejolut.com/",
         "position": [
@@ -594,7 +594,7 @@
         ]
     },
     {
-        "type": "type_7",
+        "type": "type_2",
         "sourceURL": "/assets/Cryptotao.png",
         "linkURL": "https://rejolut.com/",
         "position": [
@@ -609,7 +609,7 @@
         ]
     },
     {
-        "type": "type_7",
+        "type": "type_2",
         "sourceURL": "/assets/Aeon.png",
         "linkURL": "https://rejolut.com/",
         "position": [
