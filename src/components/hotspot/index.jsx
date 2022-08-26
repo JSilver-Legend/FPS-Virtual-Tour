@@ -1,8 +1,6 @@
-import { Html } from '@react-three/drei';
 import React, { useState } from 'react';
 import { useLoader } from '@react-three/fiber';
 import { TextureLoader } from 'three';
-import ContentPage from '../contentPage';
 
 const Hotspot = ({ data }) => {
 
@@ -31,7 +29,6 @@ const Hotspot = ({ data }) => {
             break;
     };
 
-    console.log('data->', data);
     const texture = useLoader(TextureLoader, data.sourceURL);
 
     return (

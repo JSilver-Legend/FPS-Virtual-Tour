@@ -3,11 +3,12 @@ import { Canvas } from "@react-three/fiber";
 import { Environment, Loader, OrbitControls } from "@react-three/drei";
 import { FPSControls } from "react-three-fpscontrols";
 import { Physics, Debug, useBox } from "@react-three/cannon";
-import hotspotsData from '../src/util/hotspotsData.json'
+import hotspotsData from '../src/util/hotspotsData.json';
 
 import MainStage from "./MainStage";
 import Hotspot from "./components/hotspot";
 import Player from "./components/player";
+import VideoTexture from "./components/videoTexture";
 
 export default function Viewer() {
 
@@ -19,10 +20,11 @@ export default function Viewer() {
           <pointLight position={[10, 10, 3]} />
           <MainStage />
           {
-            hotspotsData.map((element) => (
-              <Hotspot data={element} />
+            hotspotsData.map((element, index) => (
+              <Hotspot data={element} key={index} />
             ))
           }
+          <VideoTexture />
           <FPSControls
             camProps={{
               makeDefault: true,
