@@ -47,8 +47,8 @@ const VideoTexture = () => {
                 onClick={() => {
                     window.open('https://rejolut.com/', '_blank');
                 }}
-                scale={[0.8, 0.8, 1]} position={[-14.65, 2.7, 17]} rotation={[0, 1.57, 0]}>
-                <planeBufferGeometry args={[2.6, 1.5]} />
+                scale={[0.8, 0.8, 1]} position={[-14.66, 2.67, 16.5]} rotation={[0, 1.57, 0]}>
+                <planeBufferGeometry args={[2.82, 1.5]} />
                 <meshBasicMaterial>
                     <videoTexture attach="map" args={[video1]} />
                 </meshBasicMaterial>
@@ -63,8 +63,8 @@ const VideoTexture = () => {
                 onClick={() => {
                     window.open('https://rejolut.com/', '_blank');
                 }}
-                scale={[0.8, 0.8, 1]} position={[-14.65, 2.7, 13]} rotation={[0, 1.57, 0]}>
-                <planeBufferGeometry args={[2.6, 1.5]} />
+                scale={[0.8, 0.8, 1]} position={[-14.66, 2.67, 13.15]} rotation={[0, 1.57, 0]}>
+                <planeBufferGeometry args={[2.82, 1.5]} />
                 <meshBasicMaterial>
                     <videoTexture attach="map" args={[video2]} />
                 </meshBasicMaterial>
@@ -79,8 +79,8 @@ const VideoTexture = () => {
                 onClick={() => {
                     window.open('https://rejolut.com/', '_blank');
                 }}
-                scale={[0.8, 0.8, 1]} position={[-14.65, 2.7, 9]} rotation={[0, 1.57, 0]}>
-                <planeBufferGeometry args={[2.6, 1.5]} />
+                scale={[0.8, 0.8, 1]} position={[-14.66, 2.67, 9.8]} rotation={[0, 1.57, 0]}>
+                <planeBufferGeometry args={[2.82, 1.5]} />
                 <meshBasicMaterial>
                     <videoTexture attach="map" args={[video3]} />
                 </meshBasicMaterial>
