@@ -3,7 +3,7 @@ import { useGLTF } from "@react-three/drei";
 
 export default function Model(props) {
   const group = useRef();
-  const { nodes, materials, scene } = useGLTF("/land_2.glb");
+  const { nodes, materials, scene } = useGLTF("/land.glb");
 
   useEffect(() => {
     scene.children[0].visible = false;
@@ -21,4 +21,4 @@ export default function Model(props) {
   );
 }
 
-useGLTF.preload("/land.gltf");
+useGLTF.preload("/land.glb");
