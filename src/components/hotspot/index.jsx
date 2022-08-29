@@ -25,10 +25,12 @@ const Hotspot = ({ data }) => {
             size_1 = 2.7;
             size_2 = 1.7;
             size_3 = 0.3;
+            break;
         case "type_5":
             size_1 = 1.2;
             size_2 = 1.2;
             size_3 = 0.3;
+            break;
         default:
             break;
     };

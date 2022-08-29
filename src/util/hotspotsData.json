@@ -1,10 +1,10 @@
 [
     {
-        "type": "type_5",
+        "type": "type_1",
         "sourceURL": "/assets/Amit.png",
         "linkURL": "https://rejolut.com/",
         "position": [
-            2.8,
+            2.79,
             2.82,
             0.1
         ],
@@ -15,12 +15,12 @@
         ]
     },
     {
-        "type": "type_5",
+        "type": "type_1",
         "sourceURL": "/assets/rahul.png",
         "linkURL": "https://rejolut.com/",
         "position": [
             4.95,
-            2.7,
+            2.82,
             0.1
         ],
         "rotation": [
@@ -30,12 +30,12 @@
         ]
     },
     {
-        "type": "type_5",
+        "type": "type_1",
         "sourceURL": "/assets/vishal1.png",
         "linkURL": "https://rejolut.com/",
         "position": [
-            7,
-            2.7,
+            6.98,
+            2.82,
             0.1
         ],
         "rotation": [
@@ -508,7 +508,7 @@
         "sourceURL": "/assets/type_6_9.png",
         "linkURL": "https://rejolut.com/",
         "position": [
-            -1.82,
+            -1.81,
             2.9,
             32.42
         ],

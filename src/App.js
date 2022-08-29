@@ -14,7 +14,8 @@ export default function Viewer() {
 
   return (
     <>
-      <Canvas shadows dpr={[1, 2]} gl={{ antialias: false }}>
+      <Canvas shadows dpr={[1, 2]} gl={{ antialias: false }}
+      >
         <Suspense fallback={null}>
           <ambientLight intensity={0.4} />
           <pointLight position={[10, 10, 3]} />
