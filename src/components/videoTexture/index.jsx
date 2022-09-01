@@ -35,71 +35,71 @@ const VideoTexture = () => {
         return vid;
     });
 
-    const [video4] = useState(() => {
-        const vid = document.createElement('video');
-        vid.id = 'video_4';
-        vid.src = "/assets/video_4.mp4";
-        vid.crossOrigin = "Anonymous";
-        vid.loop = true;
-        vid.muted = true;
-        vid.play();
-        return vid;
-    });
+    // const [video4] = useState(() => {
+    //     const vid = document.createElement('video');
+    //     vid.id = 'video_4';
+    //     vid.src = "/assets/video_4.mp4";
+    //     vid.crossOrigin = "Anonymous";
+    //     vid.loop = true;
+    //     vid.muted = true;
+    //     vid.play();
+    //     return vid;
+    // });
 
-    const [video5] = useState(() => {
-        const vid = document.createElement('video');
-        vid.id = 'video_5';
-        vid.src = "/assets/video_5.mp4";
-        vid.crossOrigin = "Anonymous";
-        vid.loop = true;
-        vid.muted = true;
-        vid.play();
-        return vid;
-    });
+    // const [video5] = useState(() => {
+    //     const vid = document.createElement('video');
+    //     vid.id = 'video_5';
+    //     vid.src = "/assets/video_5.mp4";
+    //     vid.crossOrigin = "Anonymous";
+    //     vid.loop = true;
+    //     vid.muted = true;
+    //     vid.play();
+    //     return vid;
+    // });
 
-    const [video6] = useState(() => {
-        const vid = document.createElement('video');
-        vid.id = 'video_6';
-        vid.src = "/assets/video_6.mp4";
-        vid.crossOrigin = "Anonymous";
-        vid.loop = true;
-        vid.muted = true;
-        vid.play();
-        return vid;
-    });
+    // const [video6] = useState(() => {
+    //     const vid = document.createElement('video');
+    //     vid.id = 'video_6';
+    //     vid.src = "/assets/video_6.mp4";
+    //     vid.crossOrigin = "Anonymous";
+    //     vid.loop = true;
+    //     vid.muted = true;
+    //     vid.play();
+    //     return vid;
+    // });
 
-    const [video7] = useState(() => {
-        const vid = document.createElement('video');
-        vid.id = 'video_7';
-        vid.src = "/assets/video_7.mp4";
-        vid.crossOrigin = "Anonymous";
-        vid.loop = true;
-        vid.muted = true;
-        vid.play();
-        return vid;
-    });
+    // const [video7] = useState(() => {
+    //     const vid = document.createElement('video');
+    //     vid.id = 'video_7';
+    //     vid.src = "/assets/video_7.mp4";
+    //     vid.crossOrigin = "Anonymous";
+    //     vid.loop = true;
+    //     vid.muted = true;
+    //     vid.play();
+    //     return vid;
+    // });
 
-    const [video8] = useState(() => {
-        const vid = document.createElement('video');
-        vid.id = 'video_8';
-        vid.src = "/assets/video_8.mp4";
-        vid.crossOrigin = "Anonymous";
-        vid.loop = true;
-        vid.muted = true;
-        vid.play();
-        return vid;
-    });
+    // const [video8] = useState(() => {
+    //     const vid = document.createElement('video');
+    //     vid.id = 'video_8';
+    //     vid.src = "/assets/video_8.mp4";
+    //     vid.crossOrigin = "Anonymous";
+    //     vid.loop = true;
+    //     vid.muted = true;
+    //     vid.play();
+    //     return vid;
+    // });
 
-    const [video9] = useState(() => {
-        const vid = document.createElement('video');
-        vid.id = 'video_9';
-        vid.src = "/assets/video_9.mp4";
-        vid.crossOrigin = "Anonymous";
-        vid.loop = true;
-        vid.muted = true;
-        vid.play();
-        return vid;
-    });
+    // const [video9] = useState(() => {
+    //     const vid = document.createElement('video');
+    //     vid.id = 'video_9';
+    //     vid.src = "/assets/video_9.mp4";
+    //     vid.crossOrigin = "Anonymous";
+    //     vid.loop = true;
+    //     vid.muted = true;
+    //     vid.play();
+    //     return vid;
+    // });
 
     return (
         <>
@@ -151,7 +151,7 @@ const VideoTexture = () => {
                     <videoTexture attach="map" args={[video3]} />
                 </meshBasicMaterial>
             </mesh>
-            <mesh
+            {/* <mesh
                 onPointerOver={() => {
                     document.body.style.cursor = "pointer";
                 }}
@@ -246,7 +246,7 @@ const VideoTexture = () => {
                 <meshBasicMaterial>
                     <videoTexture attach="map" args={[video9]} />
                 </meshBasicMaterial>
-            </mesh>
+            </mesh> */}
         </>
     )
 }

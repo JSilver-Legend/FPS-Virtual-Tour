@@ -30,12 +30,12 @@ export default function Viewer() {
             camProps={{
               makeDefault: true,
               fov: 60,
-              position: [0, 2.537, 0.7],
+              position: [0, 2.537, 0],
             }}
             orbitProps={{
               target: [0, 2.537, 0]
             }}
-            enableJoystick={false}
+            enableJoystick
             enableKeyboard
           />
           {/* <Player /> */}

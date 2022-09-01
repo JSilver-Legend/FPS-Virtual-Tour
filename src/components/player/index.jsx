@@ -89,6 +89,7 @@ const Player = () => {
 
     document.addEventListener("keydown", onKeyDown);
     document.addEventListener("keyup", onKeyUp);
+    
     return (
         <group ref={camera} position={[0, 0, 0]} >
             <PerspectiveCamera
